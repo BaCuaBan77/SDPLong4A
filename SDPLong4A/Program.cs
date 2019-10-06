@@ -7,8 +7,7 @@ namespace SDPLong4A
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.Read();
-            Console.WriteLine("Long is the best");
+            Console.ReadLine();
         }
     }
 }
